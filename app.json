@@ -1,7 +1,7 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy",
-    "logo": "https://te.legra.ph/file/315ec5fe03f2a612139b3.jpg",
+    "name": "XD SPAM",
+    "description": "Spamming Bot Made By XD BOTZ",
+    "logo": "https://graph.org/file/bb2ebd908bebb23a369c3.jpg",
     "keywords": [
         "telegram",
         "pyrogram",
@@ -9,9 +9,9 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-AI/BOTSPAM",
-    "website": "https://t.me/LegendBot_Owner",
-    "success_url": "https://t.me/LegendBot_Owner",
+    "repository": "https://github.com/DIGITALBOTXD/XDSPAM",
+    "website": "https://t.me/ABOUT_ROCKY_FIGHTER",
+    "success_url": "https://t.me/ABOUT_ROCKY_FIGHTER",
     "env": {       
         "ENV": {
             "description": "dont edit this",
