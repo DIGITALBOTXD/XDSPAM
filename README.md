@@ -1,9 +1,9 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
 
-[![AGORABOTSPAM](https://telegra.ph/file/8ea21b4a36e8a2ecbd849.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+[![XDBOTSPAM](https://graph.org/file/19c7568fd413cb9e2c6a7.jpg)](https://github.com/DIGITALBOTXD/XDSPAM)
 
 <h1 align="center">
-<b> 『ẞø†Spâm』 </b>
+<b> 『ϰ∂ẞø†Spâm』 </b>
 </h1>
 
 <h6 align="center">
@@ -21,29 +21,18 @@
 
 ## Status Of Bot 
 <p align="left">
-<a href="https://github.com/LEGEND-AI/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM?"></a>
+<a href="https://github.com/LEGEND-AI/BOTSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/BOTSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/BOTSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/BOTSPAM"></a><p align="left"><a href="https://github.com/DIGITALBOTXD/XDSPAM?"></a>
   
 -------
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBotSpam)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/XD_BOTZZ)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/XD_MUSIC_BOTZ)
  
 -------
 
-## YouTube 📺
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgv4QgLLpyHVWtBiTpr5srg?label=TeamLegend&style=social)](https://youtube.com/@TeamLegendBot)
-
-[![YouTube Video Views](https://img.shields.io/youtube/views/1A4xVEfyxYU?label=Intro+•&style=social)](https://youtu.be/1A4xVEfyxYU)
-
-------
-
-## 📄 <a name=" Required Variable"></a>Variable
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/yA9NsYE7SoM?label=Collect+•+Variable+•&style=social)](https://youtu.be/yA9NsYE7SoM)
 
 Required Variable | Description
 :--- | :---
@@ -83,7 +72,6 @@ Required Variable | Description
 -------
 ## Deploy On Heroku
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+Heroku+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -91,16 +79,18 @@ Required Variable | Description
 
 ## Vps Deployment 
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Vps+•+Deployment+•&style=social)](https://youtu.be/CH_KO1wim2o)
+- [![vps](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Vps+•+Deployment+•&style=social)
+
+
 
 
 ## Okteto Deployment 
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Okteto+•&style=social)](https://youtu.be/CH_KO1wim2o)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Okteto+•&style=social)]
 
 ## Railway Deployment 
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/CH_KO1wim2o)
+- [![YouTu](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
 
 <h3> Mongenius Deployment </h3>
