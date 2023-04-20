@@ -1,4 +1,4 @@
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
+
 
 [![XDBOTSPAM](https://graph.org/file/19c7568fd413cb9e2c6a7.jpg)](https://github.com/DIGITALBOTXD/XDSPAM)
 
@@ -157,7 +157,7 @@ Required Variable | Description
 </details>
 
 
-> Made with 💕 by [@TeamLegendXD](https://t.me/TeamLegendXD).    
+> Made with 💕 by [@XD_BOTZZ](https://t.me/XD_BOTZZ).    
 
 
 
